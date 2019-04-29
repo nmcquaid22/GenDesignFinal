@@ -11,3 +11,6 @@ These are the two chapters we focused on and all of the pieces created throughou
 ## Shape & Colour
 
 These are the foundations and basics of generative design. This is a complete summary of my work that I produced in class and for continuous assessments throughout the year. The p5.js library was used to create these pieces along with in-class tutorials from my lecturer and the book Generative design, written by Hartmut Bohnacker, BenediktbGrob, Julia Laub, Claudius Lazzeroni.
+
+## Link
+https://github.com/nmcquaid22/GenDesignFinal
