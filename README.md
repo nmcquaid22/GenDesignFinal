@@ -1,5 +1,7 @@
 # Generative Design Using p5.js 
 Following generative design practices and book by Hartmut Bohnacker
+
+These are the two chapters we focused on and all of the pieces created throughout the year are designated to the correct section.
 ## Chapters to be covered
 1. [Colour](P1_COLOUR/)
 2. [Shape & Type](P1_SHAPE/)
