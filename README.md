@@ -2,6 +2,9 @@
 Following generative design practices and book by Hartmut Bohnacker
 
 These are the two chapters we focused on and all of the pieces created throughout the year are designated to the correct section.
+
+** Please note: Use Firefox browser to view demo's
+
 ## Chapters covered
 1. [Colour](P1_COLOUR/)
 2. [Shape & Type](P1_SHAPE/)
