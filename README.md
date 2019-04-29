@@ -7,7 +7,7 @@ These are the two chapters we focused on and all of the pieces created throughou
 
 ## Chapters covered
 1. [Colour](P1_COLOUR/)
-2. [Shape & Type](P1_SHAPE/)
+2. [Shape & Type](P2_SHAPE/)
 
 
 
