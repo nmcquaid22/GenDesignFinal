@@ -14,7 +14,7 @@ These are the two chapters we focused on and all of the pieces created throughou
 5. [Colour grid (exercise02_GRID)](exercise02_GRID/)
 6. [Colour circle (exercise03_CIRCLE/)](exercise03_CIRCLE/)
 7. [Colour grid with mouse interactivity (exercise04_GRID2)](exercise04_GRID2/)
-8. [Example incorporating Lerp colour (exrcise05_LERP_COLOUR)](exrcise05_LERP_COLOUR/)
+8. [Example incorporating Lerp colour (exercise05_LERP_COLOUR)](exercise05_LERP_COLOUR/)
 9. [Second version of Image Manipulation (exercise06_ImgManipulation)](exercise06_ImgManipulation/)
 10.[Using colour gradients (exercise07_GRADIENTS)](exercise07_GRADIENTS/)
 
