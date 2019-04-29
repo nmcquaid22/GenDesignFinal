@@ -4,7 +4,7 @@ Following generative design practices and book by Hartmut Bohnacker
 These are the two chapters we focused on and all of the pieces created throughout the year are designated to the correct section.
 ## Demos
 
-1. [Continuous Assessment No1](CA1/)
+1. [Continuous Assessment No1 (CA1)](CA1/)
 2. [Image Manipulation in Stages](ImageManipulationInSteps/)
 3. [Colour Palette with Random Rectangle Sizes](colorPaletteRandomRects/)
 4. [Creating shapes - rotating squares](exercise01_SQUARE/)
