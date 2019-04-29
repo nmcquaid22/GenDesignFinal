@@ -14,3 +14,4 @@ These are the two chapters we focused on and all of the pieces created throughou
 9. [Second version of Image Manipulation](exercise06_ImgManipulation/)
 10.[Using colour gradients](exercise07_GRADIENTS/)
 
+
