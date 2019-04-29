@@ -2,7 +2,8 @@
 Following generative design practices and book by Hartmut Bohnacker
 
 These are the two chapters we focused on and all of the pieces created throughout the year are designated to the correct section.
-## Chapters to be covered
+## Demos
+
 1. [Continuous Assessment No1](CA1/)
 2. [Image Manipulation in Stages](ImageManipulationInSteps/)
 3. [Colour Palette with Random Rectangle Sizes](colorPaletteRandomRects/)
