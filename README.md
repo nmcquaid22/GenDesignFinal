@@ -7,6 +7,7 @@ These are the two chapters we focused on and all of the pieces created throughou
 2. [Shape & Type](P1_SHAPE/)
 
 
+
 ## Some standard GIT command
 You can clone a repository. This means a copy of yours or someone elses. If the respoitory is your own just use the command
 ```
