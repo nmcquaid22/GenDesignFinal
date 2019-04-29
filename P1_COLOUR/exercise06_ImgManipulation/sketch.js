@@ -6,7 +6,7 @@ var colors = [];
 var sortMode = null;
 
 function preload() {
-  img = loadImage('data/colorMap.jpg');
+  img = loadImage('colorMap.jpg');
 }
 
 function setup() {
