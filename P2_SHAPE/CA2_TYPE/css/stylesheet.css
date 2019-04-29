@@ -1,0 +1,35 @@
+.p5Canvas {
+    /* width:100%; */
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.container {
+  margin-top: 40px;
+  background-color: grey;
+}
+.col-4 {
+  margin-top: 50px;
+}
+#radiusController {
+
+    margin-bottom: 5px;
+}
+#opacityController {
+  margin-bottom: 5px;
+}
+#densityController {
+    margin-bottom: 5px;
+}
+
+#fontSizeController {
+    margin-bottom: 5px;
+}
+
+#randomController {
+    margin-bottom: 5px;
+}
+
+#inputBoxController {
+    margin-bottom: 30px;
+
+}
