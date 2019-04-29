@@ -19,3 +19,4 @@ These are the two chapters we focused on and all of the pieces created throughou
 10.[Using colour gradients (exercise07_GRADIENTS)](exercise07_GRADIENTS/)
 
 
+
